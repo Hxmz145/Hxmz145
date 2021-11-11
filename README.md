@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hxmz145 i'm an IT student thinking of becoming an AI engineer
+- 👋 Hi, I’m @Hxmz145 i'm an IT student thinking of becoming a software engineer
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
