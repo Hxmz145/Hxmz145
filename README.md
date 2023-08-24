@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Ahmedhere175@gmail.com
+- 📫 How to reach me Ahmedhere175@gmail.com
 
 <!---
 Hxmz145/Hxmz145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
