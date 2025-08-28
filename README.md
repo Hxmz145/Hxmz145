@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Hxmz145 i'm an IT student thinking of becoming a software engineer
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Hxmz145 i'm a Masters student in information systems security management.
+- 👀 I’m interested in ...AI, Cybersecurity
 - 📫 How to reach me Ahmedhere175@gmail.com
 
 <!---
